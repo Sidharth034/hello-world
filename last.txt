@@ -1,1 +1,3 @@
-last commit in master
+<<<<<<< HEAD
+last commit
+>>>>>>> b1
